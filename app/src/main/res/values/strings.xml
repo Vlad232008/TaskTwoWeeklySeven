@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskTwoWeeklySeven</string>
+    <string name="name_hero">Name hero</string>
+    <string name="name">Name</string>
+    <string name="team">Team</string>
+    <string name="producer">Producer</string>
+    <string name="real_name">Real name</string>
+    <string name="first_appearance">First appearance</string>
+    <string name="publisher">Publisher</string>
+    <string name="bio">Bio</string>
+</resources>
